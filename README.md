@@ -20,6 +20,7 @@
 - Jenkins + Helm + Kubernetes 部署 Django Application： https://github.com/Spencer810704/django-lab
 - CMDB (Django) https://github.com/Spencer810704/my_project_cmdb
 - CMDB觸發Jenkins以及Terraform初始化機器並自動納入監控 https://github.com/Spencer810704/my-presonal-project
+<br>
 
 # 系統整合
 - Elasticsearch Cluster + Kafka： https://github.com/Spencer810704/elk_integrate
